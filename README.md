@@ -1,6 +1,6 @@
 # Wool_Cloud_Classification
 
-##Облако или вата?
+## Облако или вата?
 
 ![alt text](wool/27.jpg)
 
